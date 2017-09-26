@@ -1,0 +1,80 @@
+p {
+  text-align: center;
+  font-size: 100px;
+  } 
+
+var {
+	color: white;
+}
+
+script {
+	color: white;
+}
+body {
+	background-image: url(../images/got.gif);
+	background-size:100%;
+}
+
+.container {
+	width: 100%;
+	: 1px solid green;
+	max-width: 1200px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#demo {
+	color: white;
+font-family: 'Baloo Bhaijaan', cursive;
+: solid 1px red;
+ 	  margin-top: 300px;
+
+
+}
+
+footer {
+	-top: 1px solid blue;
+	text-align: center;
+ position: fixed;
+   bottom: 0;
+   max-width: 1200px;
+    width: 100%;
+ }
+ .content {
+ 	: solid 1px blue;
+ 	  margin-top: 40px;
+
+ }
+
+audio {
+	p
+ }
+
+h2 {
+	font-size: 60px;
+	  text-align: center;
+	  color: white;
+font-family: 'Baloo Bhaijaan', cursive;
+
+
+}
+h1 {
+	color: white;
+font-family: 'Baloo Bhaijaan', cursive;
+margin-bottom: 15px;
+margin-top: 10px;
+}
+
+/* audio */
+
+input[type=button] {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+}
+
